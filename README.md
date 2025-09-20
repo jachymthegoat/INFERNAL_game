@@ -1,0 +1,2 @@
+# Infernal
+Hra v Pythonu
